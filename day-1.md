@@ -11,6 +11,9 @@ https://www.programiz.com/javascript/prototype
 https://dev.to/lawanu/what-is-prototype-chain-in-javascript-20n8
 https://medium.com/codex/the-prototype-chain-how-javascript-really-works-83db2013af3
 
+-- Every object in JavaScript has a built-in property, which is called its prototype. The prototype is itself an object, so the prototype will have its own prototype, making what's called a prototype chain. The chain ends when we reach a prototype that has null for its own prototype
+
+
 Q-3. What is the difference between call apply and bind?
 https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/
 https://dev.to/hebashakeel/difference-between-call-apply-and-bind-4p98
