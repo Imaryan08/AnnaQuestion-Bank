@@ -38,11 +38,14 @@ https://www.programiz.com/javascript/library/array/splice
 Q-7. what is the difference between slice and splice in javascript
 https://www.geeksforgeeks.org/what-is-the-difference-between-array-slice-and-array-splice-in-javascript/
 
+
 Q-8. How do you compare Object and Map?
 https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
 
+
 Q-9. What is the difference between == and === operators?
 https://www.geeksforgeeks.org/difference-between-double-equal-vs-triple-equal-javascript/
+
 
 Q-10. what are lambda or arrow functions in javascript?
 https://www.geeksforgeeks.org/what-are-arrow-lambda-functions-in-typescript/
@@ -75,11 +78,21 @@ https://medium.com/swlh/currying-in-javascript-bbe4ddedf86b
 Q-15. What is pure function in javascript
 - https://medium.com/front-end-weekly/6-fundamental-terms-in-functional-javascript-e25d50d40b2c
 https://www.scaler.com/topics/pure-function-in-javascript/
-https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/
+
+- A pure function is a function where the return value is only determined by its arguments without any side effects.
 
 Q-16. What is the purpose of let keyword
 https://www.javascripttutorial.net/es6/javascript-let/
 https://www.freecodecamp.org/news/understanding-let-const-and-var-keywords/
+
+The let keyword was introduced in ES6 (2015).
+
+Variables defined with let cannot be Redeclared.
+
+Variables defined with let must be Declared before use.
+
+Variables defined with let have Block Scope.
+
 
 Q-17. What is Static method?
 - Static class methods are defined on the class itself.
